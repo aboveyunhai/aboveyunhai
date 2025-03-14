@@ -32,6 +32,8 @@
    
    An `index` refers to the position of an item in the array, hence the **`"1" st`** (we wouldn't call it 0th) position in both x and y happens to be `[0,0]`, but just because the values align in a certain way, make calculation simplier, doesn’t mean that indexing must start from 0.
 
+   Both 1st and 2nd arguments are all attempting to mix up "number calculation" with "indexing", where 0 is a meaningful value.
+
    3). `Math / programming languages starts from 0.`
    
    Besides the fact that this statement is factually incorrect (some formulas start from 0, others from 1, or even different numbers), it has nothing to do with whether indexing should be 0-based or 1-based.
