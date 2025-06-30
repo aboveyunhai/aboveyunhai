@@ -17,7 +17,7 @@
 
    People typically say "a few months old" or "a few days old" rather than referring to an exact "0 years old." 
 
-   It’s like if I gave you -3/0 candies. It's simply not natural as they claim.
+   It’s like if I gave you -3 or 0 candies. It's simply not natural as they claim.
    
    For 0 o'clock, 0 o'clock can be 12 o'clock as we need a way to differentiate two in 12 and 24. Physically the last digit of most of circular clocks we have today is 12 instead of 0. Digitally the `0` in `00:00` refers to a leading digit just like I have $0012 (12 dollars). It's not equivalent to the concept of "indexing"
 
