@@ -1,8 +1,4 @@
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/aboveyunhai/aboveyunhai/assets/35160613/f5454270-9f18-45a7-8de6-2ad73d79ab21');]{x0000}$}
-```
-<sub>(Github readme might be a good spot to throw some silly thoughts I guess)</sub>
+<sub>(Github readme might be a good spot to throw some silly shower thoughts I guess)</sub>
 ## My random programming hot takes:
 
 ### 1-based indexing is superior to 0-based indexing in programming languages for general purposes.
